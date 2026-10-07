@@ -1,0 +1,5 @@
+{
+    "application_name": "Student Information System",
+    "version": "1.0.0",
+    "data_file": "data/students.json"
+}
