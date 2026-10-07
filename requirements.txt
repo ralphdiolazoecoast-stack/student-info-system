@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# The system uses Python standard library modules.
