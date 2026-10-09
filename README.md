@@ -85,7 +85,7 @@ Application events are stored in:
 
 ## GitHub Repository
 
-https://github.com/ralphdiolazocoast-stack/student-info-system
+https://github.com/ralphdiolazoecoast-stack/student-info-system
 ## Testing Completed
 
 The Student Information System was tested for the following functions:
